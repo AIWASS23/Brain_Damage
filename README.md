@@ -1,6 +1,4 @@
-# braindamage
-
-# fortaleza
+# Brain Damage
 
 Construção de um Aplicativo em StoryBoard.
 
